@@ -1,4 +1,4 @@
-# ADDN
+# IPhone Application for ADDN
 
 Devices Requirement: iPhone 4S, iPhone 5/5s, iPhone 6/6s
 
