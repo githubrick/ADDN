@@ -6,7 +6,7 @@ Devices Requirement: iPhone 4S, iPhone 5/5s, iPhone 6/6s
 
   (1) Install XAMPP in the apple store.
 
-  (2) Copy the file (the name is “project”) in API into the server apache html root directory (normally in your MAC: Applications/XAMPP/htdocs/).
+  (2) Copy the file (“project”) in API into the server apache html root directory (normally in your MAC: Applications/XAMPP/htdocs/).
 
   (3) Create a database(better set the database name of “ADDN”) and import the Database(ADDN.sql) (Use phpmyadmin in browser you just installed).
 
