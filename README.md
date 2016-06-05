@@ -2,7 +2,8 @@
 
 Devices Requirement: iPhone 4S, iPhone 5/5s, iPhone 6/6s
 
-1.To run this application, the local server need to be installed and set. The steps are as followed:
+1. To run this application, the local server need to be installed and set. The steps are as followed:
+
   (1) Install XAMPP in the apple store.
 
   (2) Copy the file in API(the name is “project”) into the server apache html root directory (normally in your MAC: Applications/XAMPP/htdocs/).
