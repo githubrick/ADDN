@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (3.4.0)
+  - EChart (0.1.1)
+  - PNChart (0.8.8):
+    - UICountingLabel (~> 1.2.0)
+  - SVProgressHUD (2.0.3)
+  - SwiftyJSON (2.3.2)
+  - UICountingLabel (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - EChart
+  - PNChart
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  EChart: 2c23edc06e72c396d283732c2338711c33d7644d
+  PNChart: 25f91e9c4688af49c3647489760624d037f5383f
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+
+PODFILE CHECKSUM: 9366f41b47d7d36b8e22995cf540df42c9b773a5
+
+COCOAPODS: 1.0.0
