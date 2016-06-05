@@ -15,3 +15,4 @@ Then you can run the application in Xcode. You can do as followed in the first t
 To use the nofitication function of the App, run the API php file on server:
 php api.php
 php push.php development
+
