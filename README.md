@@ -1,5 +1,7 @@
 # IPhone Application for ADDN
 
+Devices Requirement: iPhone 4S, iPhone 5/5s, iPhone 6/6s
+
 1. To run this application, the local server need to be installed and set. The steps are as followed:
 
   (1) Install XAMPP in the apple store.
@@ -22,6 +24,4 @@
 
   php push.php development
   
-  
-  
-  Devices Requirement: iPhone 4S, iPhone 5/5s, iPhone 6/6s
+
